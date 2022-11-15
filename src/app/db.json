@@ -1,0 +1,34 @@
+{
+    "employer": [
+        {
+            "name": "sandra",
+            "address": "kochi",
+            "d.o.b": 13061996,
+            "role": "engineer",
+            "contact": 58751265,
+            "gender": "female"
+        },
+        {
+            "name": "anu",
+            "address": "kochi",
+            "d.o.b": 13061966,
+            "role": "frontend developer",
+            "contact": 58751265,
+            "gender": "female"
+        }, {
+            "name": "abi",
+            "address": "kochi",
+            "d.o.b": 13061996,
+            "role": "engineer",
+            "contact": 58761265,
+            "gender": "male"
+        }, {
+            "name": "sana",
+            "address": "trissur",
+            "d.o.b": 13061996,
+            "role": "backend developer",
+            "contact": 58751265,
+            "gender": "female"
+        }
+    ]
+}
